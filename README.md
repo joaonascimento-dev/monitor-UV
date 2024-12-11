@@ -1,4 +1,4 @@
-# Trabalho Final da Fatec Itapira
+# Trabalho Final da Fatec Itapira (Plataforma de Monitoramento de IoT com Responsabilidade Social)
 
 ## João Victor Nascimento da Silva
 
